@@ -8,7 +8,7 @@
 
 
 ## Overview
-We propose TAT-R1, the first terminologyaware translation model trained with RL and word alignment rewards. Leveraging word alignment, we design three simple yet effective reward functions for terminology translation model training.
+We propose **TAT-R1**, the first terminologyaware translation model trained with RL and word alignment rewards. Leveraging word alignment, we design three simple yet effective reward functions for terminology translation model training.
 
 
 <div align='center'>
@@ -19,13 +19,13 @@ We propose TAT-R1, the first terminologyaware translation model trained with RL 
 
 ## Results
 
-Performance on WMT23 ZH to EN and WMT24 EN to ZH testset
+### Performance on WMT23 ZH to EN and WMT24 EN to ZH testset
 
 <div align='center'>
 <img src="perform_on_wmt.png" width = "80%" />
 </div>
 
-Performance on RTT testset
+### Performance on RTT testset
 
 <div align='center'>
 <img src="perform_on_rtt.png" width = "50%" />
