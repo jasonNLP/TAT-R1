@@ -5,3 +5,7 @@
 <a href="https://huggingface.co/hhoh/TAT-R1" target="_blank"><img alt="Hugging Face"
     src="https://img.shields.io/badge/HuggingFace-fcd022?style=for-the-badge&logo=huggingface&logoColor=000&labelColor"/></a>
 </div>
+
+
+## Overview
+We propose TAT-R1, the first terminologyaware translation model trained with RL and word alignment rewards. Leveraging word alignment, we design three simple yet effective reward functions for terminology translation model training.
