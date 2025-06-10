@@ -22,5 +22,5 @@ We propose TAT-R1, the first terminologyaware translation model trained with RL 
 Performance on WMT23 ZH to EN and WMT24 EN to ZH testset
 
 <div align='center'>
-<img src="perform_on_wmt" width = "80%" />
+<img src="perform_on_wmt.png" width = "80%" />
 </div>
