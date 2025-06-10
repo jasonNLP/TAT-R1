@@ -14,3 +14,5 @@ We propose TAT-R1, the first terminologyaware translation model trained with RL 
 <div align='center'>
 <img src="pipline.png" width = "80%" />
 </div>
+
+👷Note that this repository is still under construction, and more content will be added soon.
