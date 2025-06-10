@@ -28,7 +28,7 @@ Performance on WMT23 ZH to EN and WMT24 EN to ZH testset
 Performance on RTT testset
 
 <div align='center'>
-<img src="perform_on_rtt.png" width = "80%" />
+<img src="perform_on_rtt.png" width = "50%" />
 </div>
 
 ## Case Study
